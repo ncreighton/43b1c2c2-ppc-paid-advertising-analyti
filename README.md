@@ -1,2 +1,41 @@
-# 43b1c2c2-ppc-paid-advertising-analyti
-Your PPC campaigns are bleeding money, but your dashboard won't tell you why. The PPC &amp; Paid Advertising Analytics and Insights API transforms fragmented ad data into actionable intelligence that reveals hidden optimization opportunities across Google Ads, Facebook, and beyond.  Stop guessing about ad performance. This REST API consolidates real-ti
+# PPC & Paid Advertising Analytics and Insights API
+
+> Api Product for Ppc Advertising
+
+Your PPC campaigns are bleeding money, but your dashboard won't tell you why. The PPC & Paid Advertising Analytics and Insights API transforms fragmented ad data into actionable intelligence that reveals hidden optimization opportunities across Google Ads, Facebook, and beyond.
+
+Stop guessing about ad performance.
+
+## Features
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| 100 requests/day | ✅ | ✅ |
+| Standard endpoints | ✅ | ✅ |
+| JSON responses | ✅ | ✅ |
+| Unlimited requests | ❌ | ✅ |
+| Premium endpoints | ❌ | ✅ |
+| Batch processing | ❌ | ✅ |
+| Webhook notifications | ❌ | ✅ |
+| SLA guarantee | ❌ | ✅ |
+
+## Get the Full Version
+
+Upgrade to the Pro version for **$29.99** and unlock all premium features.
+
+**[Buy Now (Stripe)](https://buy.stripe.com/fZueVdcLl5wgcVWcDWcZr3B)** — Secure checkout
+
+## Installation
+
+1. Download the latest release from the [Releases page](../../releases)
+2. Extract and follow the setup instructions in the included documentation
+3. For Pro features, enter your license key after purchase
+
+## Support
+
+- Open an [issue](../../issues) for bug reports
+
+## License
+
+Free tier: MIT License for personal and commercial use.
+Pro tier: Commercial license included with purchase.
